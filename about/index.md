@@ -5,7 +5,7 @@ tags: [about, Jekyll, theme]
 date: 2018-06-24
 ---
 
-![picture of my favorite food](sushi.jpeg)
+![picture of my favorite food](megasushi.github.io/sushi.jpeg)
 {: .image-pull-right}
 
 <center><b>Megasushi</b>- A Little About Me.</center>

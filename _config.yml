@@ -2,7 +2,7 @@
 title:          Megasushi's Page
 bio:            'Just a simple page about me!'
 description:    "A page about Megasushi's coding journey."
-picture:        'assets/img/profile.png'
+picture:        'pic.png'
 locale:         en_US
 url:            https://megasushi.github.io
 

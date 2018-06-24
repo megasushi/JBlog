@@ -17,7 +17,6 @@ I have a long history working with HTML and CSS to create websites for clients. 
 I'm from sunny California and my hobbies are working with computers or cars. I also like to game on Steam from time to time. As you can probably guess, my favorite food is sushi! Ramen is a close second though! 
 
 
+    
 
-Do you want to use this theme too?  **use it?**      
-
-[Install JBlog](https://github.com/alperenbozkurt/JBlog){: .btn .btn-info}
+[Return Home](https://megasushi.github.io){: .btn .btn-info}

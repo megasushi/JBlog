@@ -2,21 +2,22 @@
 layout: page
 title: About the Theme
 tags: [about, Jekyll, theme, JBlog]
-date: 2016-03-21
+date: 2018-06-24
 ---
 
-![jekyll Image](http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/02/1424055625jekyll.png)
+![picture of my favorite food](sushi.jpg)
 {: .image-pull-right}
 
-<center><b>JBlog</b> is a simple jekyll theme.</center>
+<center><b>Megasushi</b> A Little About Me.</center>
 
 ## About
 
-I have used this theme in my own php and ruby blogs. And there are some shortcomings. If something looks extremely ugly and you can't resist to fix it, just send me a PR. I will be grateful.
+I have a long history working with HTML and CSS to create websites for clients. I am also highly efficient at using WordPress. I am taking a few online courses this summer to become a more advanced coder. I hope to learn enough to make an interesting web app, and maybe more! I 
+
+I'm from sunny California and my hobbies are working with computers or cars. I also like to game on Steam from time to time. As you can probably guess, my favorite food is sushi! Ramen is a close second though! 
 
 
-If you like this theme or using it, please give a **star** for motivation.
 
-You want to **use it?**      
+Do you want to use this theme too?  **use it?**      
 
 [Install JBlog](https://github.com/alperenbozkurt/JBlog){: .btn .btn-info}

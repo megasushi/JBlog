@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "MIPS Nedir"
-date: 2012-06-24
+title: "The Start of Summer"
+date: 2018-06-24
 excerpt: "It's a World Cup summmer! "
 tags: [summer 2018, world cup]
 ---

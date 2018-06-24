@@ -1,11 +1,11 @@
 ---
 layout: page
 title: About the Theme
-tags: [about, Jekyll, theme, JBlog]
+tags: [about, Jekyll, theme]
 date: 2018-06-24
 ---
 
-![picture of my favorite food](/sushi.jpg)
+![picture of my favorite food](sushi.jpeg)
 {: .image-pull-right}
 
 <center><b>Megasushi</b>- A Little About Me.</center>

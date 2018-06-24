@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Theme
+title: About the person known as Megasushi
 tags: [about, Jekyll, theme]
 date: 2018-06-24
 ---
